@@ -1,0 +1,15 @@
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\bin\Debug\net6.0\RemoveUselessSymbols.exe
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\bin\Debug\net6.0\RemoveUselessSymbols.deps.json
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\bin\Debug\net6.0\RemoveUselessSymbols.runtimeconfig.json
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\bin\Debug\net6.0\RemoveUselessSymbols.dll
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\bin\Debug\net6.0\RemoveUselessSymbols.pdb
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\RemoveUselessSymbols.csproj.AssemblyReference.cache
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\RemoveUselessSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\RemoveUselessSymbols.AssemblyInfoInputs.cache
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\RemoveUselessSymbols.AssemblyInfo.cs
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\RemoveUselessSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\RemoveUselessSymbols.dll
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\refint\RemoveUselessSymbols.dll
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\RemoveUselessSymbols.pdb
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\RemoveUselessSymbols.genruntimeconfig.cache
+C:\Users\Mak\RiderProjects\RemoveUselessSymbols\obj\Debug\net6.0\ref\RemoveUselessSymbols.dll
